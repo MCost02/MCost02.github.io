@@ -11,7 +11,7 @@ body {
 
 header,
 footer {
-	color: #A2976B;
+	color: #000000;
 	font-weight: bold;
 }
 
@@ -21,7 +21,7 @@ footer p {
 
 h1,
 h2 {
-	color: #A2976B;
+	color: #000000;
 	font-family: Georgia;
 }
 
